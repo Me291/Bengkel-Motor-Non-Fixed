@@ -26,4 +26,4 @@ Proyek ini bertujuan untuk memberikan dasar bagi pengembangan sistem manajemen b
 ### Cara Menjalankan Proyek
 1. **Clone repositori ini**:
    ```bash
-   git clone https://github.com/username/bengkel-motor.git
+   git clone https://github.com/Me291/Bengkel-Motor-Non-Fixed.git
